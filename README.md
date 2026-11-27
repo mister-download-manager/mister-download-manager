@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/misterdownloadmanager/misterdownloadmanager/releases/latest"><img src="https://img.shields.io/badge/Download%20for-Windows-2a78d6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDMuNWw4LjUtMS4ydjguMkgyek0xMS41IDIuMkwyMiAuOHY5LjdIMTEuNXpNMiAxMS41aDguNXY4LjJMMiAxOC41ek0xMS41IDExLjVIMjJ2OS43bC0xMC41LTEuNHoiLz48L3N2Zz4%3D" alt="Download for Windows" height="34"></a>
-  <a href="https://github.com/misterdownloadmanager/misterdownloadmanager/releases/latest"><img src="https://img.shields.io/badge/Download%20for-macOS-2a78d6?style=flat-square&logo=apple&logoColor=white" alt="Download for macOS" height="34"></a>
-  <a href="https://github.com/misterdownloadmanager/misterdownloadmanager/releases/latest"><img src="https://img.shields.io/badge/Download%20for-Linux-2a78d6?style=flat-square&logo=linux&logoColor=white" alt="Download for Linux" height="34"></a>
+  <a href="https://github.com/mister-download-manager/mister-download-manager/releases/latest"><img src="https://img.shields.io/badge/Download%20for-Windows-2a78d6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDMuNWw4LjUtMS4ydjguMkgyek0xMS41IDIuMkwyMiAuOHY5LjdIMTEuNXpNMiAxMS41aDguNXY4LjJMMiAxOC41ek0xMS41IDExLjVIMjJ2OS43bC0xMC41LTEuNHoiLz48L3N2Zz4%3D" alt="Download for Windows" height="34"></a>
+  <a href="https://github.com/mister-download-manager/mister-download-manager/releases/latest"><img src="https://img.shields.io/badge/Download%20for-macOS-2a78d6?style=flat-square&logo=apple&logoColor=white" alt="Download for macOS" height="34"></a>
+  <a href="https://github.com/mister-download-manager/mister-download-manager/releases/latest"><img src="https://img.shields.io/badge/Download%20for-Linux-2a78d6?style=flat-square&logo=linux&logoColor=white" alt="Download for Linux" height="34"></a>
 </p>
 
 
@@ -34,13 +34,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/misterdownloadmanager/misterdownloadmanager/releases/latest"><img src="https://img.shields.io/github/v/release/misterdownloadmanager/misterdownloadmanager?logo=github" alt="Latest release"></a>
-  <a href="https://github.com/misterdownloadmanager/misterdownloadmanager/releases"><img src="https://img.shields.io/github/downloads/misterdownloadmanager/misterdownloadmanager/total?logo=github" alt="Downloads"></a>
-  <a href="https://github.com/misterdownloadmanager/misterdownloadmanager/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/misterdownloadmanager/misterdownloadmanager/ci.yml?logo=github&label=ci" alt="CI"></a>
-  <a href="https://github.com/misterdownloadmanager/misterdownloadmanager/stargazers"><img src="https://img.shields.io/github/stars/misterdownloadmanager/misterdownloadmanager?logo=github" alt="GitHub stars"></a>
+  <a href="https://github.com/mister-download-manager/mister-download-manager/releases/latest"><img src="https://img.shields.io/github/v/release/mister-download-manager/mister-download-manager?logo=github" alt="Latest release"></a>
+  <a href="https://github.com/mister-download-manager/mister-download-manager/releases"><img src="https://img.shields.io/github/downloads/mister-download-manager/mister-download-manager/total?logo=github" alt="Downloads"></a>
+  <a href="https://github.com/mister-download-manager/mister-download-manager/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/mister-download-manager/mister-download-manager/ci.yml?logo=github&label=ci" alt="CI"></a>
+  <a href="https://github.com/mister-download-manager/mister-download-manager/stargazers"><img src="https://img.shields.io/github/stars/mister-download-manager/mister-download-manager?logo=github" alt="GitHub stars"></a>
   <a href="https://addons.mozilla.org/firefox/addon/mister-download-manager/"><img src="https://img.shields.io/amo/v/mister-download-manager?logo=firefoxbrowser&label=Firefox%20add-on" alt="Firefox add-on"></a>
   <a href="https://chromewebstore.google.com/detail/mister-download-manager/ejoleppdfgjdndddcjoehopknmlglojp"><img src="https://img.shields.io/chrome-web-store/v/ejoleppdfgjdndddcjoehopknmlglojp?logo=googlechrome&label=Chrome%20Web%20Store" alt="Chrome Web Store"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/misterdownloadmanager/misterdownloadmanager" alt="GPL-3.0 license"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/mister-download-manager/mister-download-manager" alt="GPL-3.0 license"></a>
 </p>
 
 | 🚀 [Download](#download) | ⚡ [Why switch](#why-switch-from-idm) | 🖼️ [Screenshots](#screenshots) | ✨ [Getting started](docs/getting-started.md) | 📜 [Help and tutorials](docs/README.md) |
